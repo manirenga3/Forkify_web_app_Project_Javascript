@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe web application",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "Mani Renga",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.1.0",
+    "parcel": "^2.1.0"
+  },
+  "dependencies": {
+    "core-js": "^3.20.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
